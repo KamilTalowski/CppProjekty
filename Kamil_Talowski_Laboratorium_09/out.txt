@@ -1,0 +1,30 @@
+ Jestem w wezle na poziomie 0,  weight = 0, profit = 0, bound = 100.000000. bestProfit = 0
+
+ Jestem w wezle na poziomie 1,  weight = 2, profit = 20, bound = 100.000000. bestProfit = 20
+
+ Jestem w wezle na poziomie 2,  weight = 7, profit = 50, bound = 100.000000. bestProfit = 50
+
+ Jestem w wezle na poziomie 3,  weight = 14, profit = 85, bound = 100.000000. bestProfit = 85
+
+ Jestem w wezle na poziomie 4,  weight = 17, profit = 97, bound = 100.000000. bestProfit = 97
+
+ Jestem w wezle na poziomie 5,  weight = 18, profit = 100, bound = 100.000000. bestProfit = 100
+ Wezel Nieobiecujacy: granica < max profit
+
+ Jestem w wezle na poziomie 5,  weight = 17, profit = 97, bound = 97.000000. bestProfit = 100
+ Wezel Nieobiecujacy: granica < max profit
+
+ Jestem w wezle na poziomie 4,  weight = 14, profit = 85, bound = 88.000000. bestProfit = 100
+ Wezel Nieobiecujacy: granica < max profit
+
+ Jestem w wezle na poziomie 3,  weight = 7, profit = 50, bound = 65.000000. bestProfit = 100
+ Wezel Nieobiecujacy: granica < max profit
+
+ Jestem w wezle na poziomie 2,  weight = 2, profit = 20, bound = 70.000000. bestProfit = 100
+ Wezel Nieobiecujacy: granica < max profit
+
+ Jestem w wezle na poziomie 1,  weight = 0, profit = 0, bound = 80.000000. bestProfit = 100
+ Wezel Nieobiecujacy: granica < max profit
+
+Najlepsza wartosc = 100
+Najlepsze upakowanie = 20 30 35 12 3 
